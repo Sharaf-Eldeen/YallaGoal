@@ -1,0 +1,188 @@
+{
+  "yesterday": [
+    {
+      "homeTeam": "ليفربول",
+      "awayTeam": "تشيلسي",
+      "homeLogo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
+      "awayLogo": "https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg",
+      "time": "2025-09-16T20:00:00",
+      "status": "انتهت",
+      "tournament": "الدوري الإنجليزي",
+      "commentator": "حفيظ دراجي",
+      "channel": "beIN Sports",
+      "videoUrl": "https://bvggj.yallashootlivetv.com/albaplayer/sports-b8/?serv=2"
+    },
+    {
+      "homeTeam": "ريال مدريد",
+      "awayTeam": "برشلونة",
+      "homeLogo": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
+      "awayLogo": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg",
+      "time": "2025-09-16T22:00:00",
+      "status": "انتهت",
+      "tournament": "الدوري الإسباني",
+      "commentator": "يوسف سيف",
+      "channel": "beIN Sports",
+      "videoUrl": "https://bvggj.yallashootlivetv.com/albaplayer/sports-b8/?serv=2"
+    },
+    {
+      "homeTeam": "بايرن ميونخ",
+      "awayTeam": "بوروسيا دورتموند",
+      "homeLogo": "https://upload.wikimedia.org/wikipedia/commons/1/1f/FC_Bayern_München_logo_%282017%29.svg",
+      "awayLogo": "https://upload.wikimedia.org/wikipedia/commons/6/67/Borussia_Dortmund_logo.svg",
+      "time": "2025-09-16T21:30:00",
+      "status": "انتهت",
+      "tournament": "الدوري الألماني",
+      "commentator": "رؤوف خليف",
+      "channel": "Sky Sports",
+      "videoUrl": "https://bvggj.yallashootlivetv.com/albaplayer/sports-b8/?serv=2"
+    },
+    {
+      "homeTeam": "ليون",
+      "awayTeam": "موناكو",
+      "homeLogo": "https://upload.wikimedia.org/wikipedia/en/c/c6/Olympique_Lyonnais.svg",
+      "awayLogo": "https://upload.wikimedia.org/wikipedia/en/b/ba/AS_Monaco_FC_Logo.svg",
+      "time": "2025-09-16T19:45:00",
+      "status": "انتهت",
+      "tournament": "الدوري الفرنسي",
+      "commentator": "خالد الغول",
+      "channel": "beIN Sports",
+      "videoUrl": "https://bvggj.yallashootlivetv.com/albaplayer/sports-b8/?serv=2"
+    },
+    {
+      "homeTeam": "الرجاء",
+      "awayTeam": "الوداد",
+      "homeLogo": "https://upload.wikimedia.org/wikipedia/en/3/31/Raja_Club_Athletic_logo.svg",
+      "awayLogo": "https://upload.wikimedia.org/wikipedia/en/0/0a/Wydad_AC_logo.svg",
+      "time": "2025-09-16T18:30:00",
+      "status": "انتهت",
+      "tournament": "الدوري المغربي",
+      "commentator": "جواد بدة",
+      "channel": "Arryadia",
+      "videoUrl": "https://bvggj.yallashootlivetv.com/albaplayer/sports-b8/?serv=2"
+    }
+  ],
+  "today": [
+    {
+      "homeTeam": "الأهلي",
+      "awayTeam": "الزمالك",
+      "homeLogo": "https://upload.wikimedia.org/wikipedia/en/5/53/Al_Ahly_SC_logo.png",
+      "awayLogo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8201-132x150.png",
+      "time": "2025-09-17T19:00:00",
+      "status": "لم تبدأ",
+      "tournament": "الدوري المصري",
+      "commentator": "مدحت شلبي",
+      "channel": "ON Time Sports",
+      "videoUrl": "https://bvggj.yallashootlivetv.com/albaplayer/sports-b8/?serv=2"
+    },
+    {
+      "homeTeam": "الهلال",
+      "awayTeam": "النصر",
+      "homeLogo": "https://upload.wikimedia.org/wikipedia/en/f/f1/Al-Hilal_SFC_Logo.svg",
+      "awayLogo": "https://upload.wikimedia.org/wikipedia/en/5/5b/Al-Nassr_FC_Logo.svg",
+      "time": "2025-09-17T21:00:00",
+      "status": "لم تبدأ",
+      "tournament": "دوري روشن السعودي",
+      "commentator": "فهد العتيبي",
+      "channel": "SSC Sports",
+      "videoUrl": "https://bvggj.yallashootlivetv.com/albaplayer/sports-b8/?serv=2"
+    },
+    {
+      "homeTeam": "إنتر ميلان",
+      "awayTeam": "ميلان",
+      "homeLogo": "https://upload.wikimedia.org/wikipedia/en/0/05/Inter_Milan_logo_2021.svg",
+      "awayLogo": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Logo_of_AC_Milan.svg",
+      "time": "2025-09-17T22:00:00",
+      "status": "لم تبدأ",
+      "tournament": "الدوري الإيطالي",
+      "commentator": "خالد الحدي",
+      "channel": "DAZN",
+      "videoUrl": "https://bvggj.yallashootlivetv.com/albaplayer/sports-b8/?serv=2"
+    },
+    {
+      "homeTeam": "توتنهام",
+      "awayTeam": "مانشستر يونايتد",
+      "homeLogo": "https://upload.wikimedia.org/wikipedia/en/b/b4/Tottenham_Hotspur.svg",
+      "awayLogo": "https://upload.wikimedia.org/wikipedia/en/7/7a/Manchester_United_FC_crest.svg",
+      "time": "2025-09-17T20:30:00",
+      "status": "لم تبدأ",
+      "tournament": "الدوري الإنجليزي",
+      "commentator": "عصام الشوالي",
+      "channel": "beIN Sports",
+      "videoUrl": "https://bvggj.yallashootlivetv.com/albaplayer/sports-b8/?serv=2"
+    },
+    {
+      "homeTeam": "أولمبياكوس",
+      "awayTeam": "باوك",
+      "homeLogo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Olympiacos_FC_logo.svg",
+      "awayLogo": "https://upload.wikimedia.org/wikipedia/en/0/0a/PAOK_FC_logo.svg",
+      "time": "2025-09-17T18:15:00",
+      "status": "لم تبدأ",
+      "tournament": "الدوري اليوناني",
+      "commentator": "خليل البلوشي",
+      "channel": "Nova Sports",
+      "videoUrl": "https://bvggj.yallashootlivetv.com/albaplayer/sports-b8/?serv=2"
+    }
+  ],
+  "tomorrow": [
+    {
+      "homeTeam": "مانشستر سيتي",
+      "awayTeam": "آرسنال",
+      "homeLogo": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
+      "awayLogo": "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg",
+      "time": "2025-09-18T21:00:00",
+      "status": "لم تبدأ",
+      "tournament": "الدوري الإنجليزي",
+      "commentator": "عصام الشوالي",
+      "channel": "beIN Sports",
+      "videoUrl": "https://bvggj.yallashootlivetv.com/albaplayer/sports-b8/?serv=2"
+    },
+    {
+      "homeTeam": "باريس سان جيرمان",
+      "awayTeam": "مارسيليا",
+      "homeLogo": "https://upload.wikimedia.org/wikipedia/en/a/a7/Paris_Saint-Germain_F.C..svg",
+      "awayLogo": "https://upload.wikimedia.org/wikipedia/commons/8/80/Olympique_de_Marseille_logo.svg",
+      "time": "2025-09-18T22:15:00",
+      "status": "لم تبدأ",
+      "tournament": "الدوري الفرنسي",
+      "commentator": "علي محمد علي",
+      "channel": "beIN Sports",
+      "videoUrl": "https://bvggj.yallashootlivetv.com/albaplayer/sports-b8/?serv=2"
+    },
+    {
+      "homeTeam": "أياكس",
+      "awayTeam": "فينورد",
+      "homeLogo": "https://upload.wikimedia.org/wikipedia/en/7/79/Ajax_Amsterdam.svg",
+      "awayLogo": "https://upload.wikimedia.org/wikipedia/en/2/28/Feyenoord_logo.svg",
+      "time": "2025-09-18T20:45:00",
+      "status": "لم تبدأ",
+      "tournament": "الدوري الهولندي",
+      "commentator": "خليل البلوشي",
+      "channel": "ESPN",
+      "videoUrl": "https://bvggj.yallashootlivetv.com/albaplayer/sports-b8/?serv=2"
+    },
+    {
+      "homeTeam": "سبورتنج لشبونة",
+      "awayTeam": "بورتو",
+      "homeLogo": "https://upload.wikimedia.org/wikipedia/en/3/3e/Sporting_Clube_de_Portugal_logo.svg",
+      "awayLogo": "https://upload.wikimedia.org/wikipedia/en/f/f1/FC_Porto.svg",
+      "time": "2025-09-18T19:30:00",
+      "status": "لم تبدأ",
+      "tournament": "الدوري البرتغالي",
+      "commentator": "محمد بركات",
+      "channel": "Sport TV",
+      "videoUrl": "https://bvggj.yallashootlivetv.com/albaplayer/sports-b8/?serv=2"
+    },
+    {
+      "homeTeam": "العين",
+      "awayTeam": "الوحدة",
+      "homeLogo": "https://upload.wikimedia.org/wikipedia/en/c/c7/Al_Ain_FC_logo.svg",
+      "awayLogo": "https://upload.wikimedia.org/wikipedia/en/7/7c/Al_Wahda_FC_logo.svg",
+      "time": "2025-09-18T18:00:00",
+      "status": "لم تبدأ",
+      "tournament": "الدوري الإماراتي",
+      "commentator": "عامر عبدالله",
+      "channel": "Abu Dhabi Sports",
+      "videoUrl": "https://bvggj.yallashootlivetv.com/albaplayer/sports-b8/?serv=2"
+    }
+  ]
+}
